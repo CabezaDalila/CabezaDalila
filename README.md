@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there! I’m Dalila Cabeza 👋
 
-<!--
-**CabezaDalila/CabezaDalila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I am a passionate and dedicated developer seeking opportunities to apply and expand my programming knowledge. My goal is to continuously learn and make a meaningful impact through my work.
 
-Here are some ideas to get you started:
+🛠️ Skills
+	•	Languages: C, C++, Java, JavaScript
+	•	Frontend: Angular, HTML, CSS
+	•	Backend/Databases: Node.js, PostgreSQL
+	•	Tools: Git, GitHub, Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with Me
+	•	LinkedIn: linkedin.com/in/dalilacabeza
+	•	Email: dalilacabeza@gmail.com
+
+🤝 Open to Collaborations
+I’m excited to collaborate on projects that promote innovation and foster professional growth. Let’s connect!
