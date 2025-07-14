@@ -7,7 +7,7 @@ I am a passionate and dedicated developer seeking opportunities to apply and exp
 	•	Languages: C, C++, Java, JavaScript
 	•	Frontend: Angular, React, StencilJs, HTML, CSS
 	•	Backend/Databases: Node.js, PostgreSQL
-	•	Tools: Git, GitHub, Jira
+	•	Tools: Git, GitHub, GitLab, Atlassian (Jira y Confluence)
 
 🌐 Connect with Me
 	•	LinkedIn: linkedin.com/in/dalilacabeza
