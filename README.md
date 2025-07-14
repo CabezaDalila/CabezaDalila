@@ -5,7 +5,7 @@ I am a passionate and dedicated developer seeking opportunities to apply and exp
 
 🛠️ Skills
 	•	Languages: C, C++, Java, JavaScript
-	•	Frontend: Angular, React, HTML, CSS
+	•	Frontend: Angular, React, StencilJs, HTML, CSS
 	•	Backend/Databases: Node.js, PostgreSQL
 	•	Tools: Git, GitHub, Jira
 
